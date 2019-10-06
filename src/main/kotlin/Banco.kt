@@ -1,4 +1,5 @@
 class Banco {
+
     var deposito : Int = 0
 
     fun depositar(){

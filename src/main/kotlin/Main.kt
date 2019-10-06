@@ -35,6 +35,7 @@ fun main(args: Array<String>) {
         }
     }
 }
+
 // Verificar si debe ir al banco o a la mina dependiendo de su oro
 fun iniciar() {
     if(bob.oroRecolectado<3) {
